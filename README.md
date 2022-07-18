@@ -3,7 +3,7 @@
 
 <p aligh="left">
   <p>Hey there, welcome!</br>
-  I'm Longguo Jin, Full Stack Developer and blockchain developer from  <b>Shenyang, China </b>.</p>
+  I'm Nixon Paul, Full Stack Developer and blockchain developer from  <b>Los Angeles, United States </b>.</p>
   	
   💡 &nbsp;I like to explore new trends and learn new technologies.\
   🚧 &nbsp;I am currently working as a Full Stack Developer and Blockchain developer!👀.\

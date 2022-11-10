@@ -3,7 +3,7 @@
 
 <p aligh="left">
   <p>Hey there, welcome!</br>
-  I'm Dmytro Koshlai, Full Stack Developer and blockchain developer from  <b>Ukraine </b>.</p>
+  I'm Felix Contreras, Full Stack Developer and blockchain developer from  <b> Us </b>.</p>
   	
   💡 &nbsp;I like to explore new trends and learn new technologies.\
   🚧 &nbsp;I am currently working as a Full Stack Developer and Blockchain developer!👀.\

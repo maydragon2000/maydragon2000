@@ -8,12 +8,20 @@
   💡 &nbsp;I like to explore new trends and learn new technologies.\
   🚧 &nbsp;I am currently working as a Full Stack Developer and Blockchain developer!👀.\
   💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.\
-  📫 &nbsp;Ping me : juvesq4@gmail.com.\
+  📫 &nbsp;Ping me : felix.contreras.ne@gmail.com.\
   ⚡ &nbsp;Fun fact: I love to learn/explore new technologies.
   
 </p>
 <br>
-
+<h2>🌎 &nbsp;Where to find me</h2>
+<p>
+  <a href="https://www.linkedin.com/in/felixcontreras/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.gg/zbUDdkp3" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Discord-E4405F?style=for-the-badge&logo=Discord&logoColor=white" /></a>
+   <a href="https://t.me/+F2kQ3t8zV9gzYmQx" target="_blank"><img alt="Fiverr" src="https://img.shields.io/badge/-Telegram-Telegram?style=for-the-badge&logo=Telegram&logoColor=white" /></a>
+  
+  
+</p>
 
 
 <h2>👨🏻‍💻 &nbsp; Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>

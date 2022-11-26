@@ -3,7 +3,7 @@
 
 <p aligh="left">
   <p>Hey there, welcome!</br>
-  I'm Felix Contreras, Full Stack Developer and blockchain developer from  <b> United States </b>.</p>
+  I'm Senior Web and blockchain developer.</p>
   	
   💡 &nbsp;I like to explore new trends and learn new technologies.\
   🚧 &nbsp;I am currently working as a Full Stack Developer and Blockchain developer!👀.\

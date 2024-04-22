@@ -13,7 +13,7 @@
   
 </p>
 <br>
-<h2>🌎 &nbsp;Where to find me</h2>
+<!-- <h2>🌎 &nbsp;Where to find me</h2>
 <p>
   <a href="https://www.linkedin.com/in/felixcontreras003/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -24,7 +24,7 @@
 </p>
 
 
-<h2>👨🏻‍💻 &nbsp; Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<h2>👨🏻‍💻 &nbsp; Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2> -->
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
   <img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>

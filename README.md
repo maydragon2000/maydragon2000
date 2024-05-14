@@ -8,7 +8,6 @@
   💡 &nbsp;I like to explore new trends and learn new technologies.\
   🚧 &nbsp;I am currently working as a Full Stack Developer and Blockchain developer!👀.\
   💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.\
-  📫 &nbsp;Ping me : felix.contreras.ne@gmail.com.\
   ⚡ &nbsp;Fun fact: I love to learn/explore new technologies.
   
 </p>
